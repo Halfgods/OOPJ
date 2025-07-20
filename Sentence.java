@@ -22,7 +22,6 @@ public class Sentence {
                 special++;
             }
         }
-
         int words = s.trim().isEmpty() ? 0 : s.trim().split("\\s+").length;
 
         System.out.println("Alphabets: " + alphabets);
