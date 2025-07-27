@@ -1,0 +1,1 @@
+// datatype arr[] = new datatype[size];
